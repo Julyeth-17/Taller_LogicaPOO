@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Lato:wght@100;300&display=swap');
+
+*{background-color: rgba(136,197,234,255);}
+
+
+.pianito {
+    font-family: 'Dancing Script';
+    font-size: 50px;
+}
+
+.do,
+.re,
+.fa,
+.sol,
+.si,
+.do2 {
+    background-color: white;
+    border: 2px solid black;
+    cursor: pointer;
+}
+
+.mi,
+.la {
+    background-color: black;
+    border: 2px solid black;
+    cursor: pointer;
+}
